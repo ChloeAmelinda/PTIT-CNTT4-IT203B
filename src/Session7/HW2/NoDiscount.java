@@ -1,0 +1,9 @@
+package Session7.HW2;
+
+public class NoDiscount implements DiscountStrategy {
+
+    @Override
+    public double applyDiscount(double totalAmount) {
+        return totalAmount;
+    }
+}
