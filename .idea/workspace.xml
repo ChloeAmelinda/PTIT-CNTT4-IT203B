@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ecffb87-4dce-4c8f-815d-d870a4d8face" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/BÁO CÁO SAU BUỔI THỰC HÀNH.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/InvalidProductException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/exception/InsufficientStockException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/exception/InvalidOrderIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/Dessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/modal/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/repository/MenuRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/service/StatisticService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session05/ThucHanh/miniProject/ui/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW1/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW2/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW3/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW3/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW4/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW5/InvalidAgeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW5/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW6/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/HW6/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW1/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW3/Authenticatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW3/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW4/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW4/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW5/AdminActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW5/SuperAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW5/UserActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW5/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW6/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW6/UserProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW6/UserUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2/HW6/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW1/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW3/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW3/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW4/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW5/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/HW6/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW1/UserValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW1/UserValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW2/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW2/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW3/UserProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW3/UserProcessorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW4/passwordUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW4/passwordUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW5/AuthorizationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/HW5/AuthorizationServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW1/BookingCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW1/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW1/TicketPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW2/TicketSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW3/BookingCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW4/BookingCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW4/TicketPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW4/TicketSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW5/BookingCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW5/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW5/TicketPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session6/HW5/TimeoutManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="53" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AWyyhxli0sjBUf9dlmSg6M2Jwo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.bai1.executor": "Run",
+    "Application.bai2.executor": "Run",
+    "Application.main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AuthorizationServiceTest.testUserPermissions.executor": "Run",
+    "JUnit.UserProcessorTest.checkEmail.executor": "Run",
+    "JUnit.UserProcessorTest.checkEmail2.executor": "Run",
+    "JUnit.UserServiceTest.check2.executor": "Run",
+    "JUnit.UserServiceTest.check3.executor": "Run",
+    "JUnit.UserServiceTest.checkRegistrationAge.executor": "Run",
+    "JUnit.UserServiceTest.executor": "Run",
+    "JUnit.UserValidatorTest.executor": "Run",
+    "JUnit.UserValidatorTest.isValidUsername.executor": "Run",
+    "JUnit.UserValidatorTest.test1.executor": "Debug",
+    "JUnit.UserValidatorTest.test2.executor": "Run",
+    "JUnit.UserValidatorTest.testValidUsername.executor": "Debug",
+    "JUnit.passwordUtilsTest.evaluatePasswordStrength.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/i203B/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Session4.HW5" />
+      <recent name="Session4.HW4" />
+      <recent name="Session4.HW3" />
+      <recent name="Session4.HW2" />
+      <recent name="Session4.HW1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AuthorizationServiceTest.testUserPermissions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i203B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session4.HW5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Session4.HW5" />
+      <option name="MAIN_CLASS_NAME" value="Session4.HW5.AuthorizationServiceTest" />
+      <option name="METHOD_NAME" value="testUserPermissions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProcessorTest.checkEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i203B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session4.HW3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Session4.HW3" />
+      <option name="MAIN_CLASS_NAME" value="Session4.HW3.UserProcessorTest" />
+      <option name="METHOD_NAME" value="checkEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProcessorTest.checkEmail2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i203B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session4.HW3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Session4.HW3" />
+      <option name="MAIN_CLASS_NAME" value="Session4.HW3.UserProcessorTest" />
+      <option name="METHOD_NAME" value="checkEmail2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i203B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session4.HW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Session4.HW2" />
+      <option name="MAIN_CLASS_NAME" value="Session4.HW2.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passwordUtilsTest.evaluatePasswordStrength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i203B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session4.HW4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Session4.HW4" />
+      <option name="MAIN_CLASS_NAME" value="Session4.HW4.passwordUtilsTest" />
+      <option name="METHOD_NAME" value="evaluatePasswordStrength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AuthorizationServiceTest.testUserPermissions" />
+        <item itemvalue="JUnit.passwordUtilsTest.evaluatePasswordStrength" />
+        <item itemvalue="JUnit.UserProcessorTest.checkEmail2" />
+        <item itemvalue="JUnit.UserProcessorTest.checkEmail" />
+        <item itemvalue="JUnit.UserServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ecffb87-4dce-4c8f-815d-d870a4d8face" name="Changes" comment="" />
+      <created>1772722883437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772722883437</updated>
+    </task>
+    <servers />
+  </component>
+</project>
