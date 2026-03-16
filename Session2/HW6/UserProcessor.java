@@ -1,8 +1,0 @@
-package Session2.HW6;
-
-@FunctionalInterface
-public interface UserProcessor {
-
-    String process(User u);
-
-}
